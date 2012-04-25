@@ -1,49 +1,49 @@
-"Title";"Tag1";"Tag2"
-"Accounting ";"Accounting, Budget, Finance, Treasury";"Test"
-"Actions ";"Action, Actions, Civil Disobedience, DA, Direct Action";"Test"
-"Aid ";"Aid, Library, Mutual Aid";"Test"
-"Arts";"Art, Arts, Arts & Culture, Culture, Painting, Sculpture";"Test"
-"Assembly";"Assembly, Facilitation, Moderation";"Test"
-"California";"CALIFORNIA";"Test"
-"Campaigns";"#ows, Bank Of America, Corporate Personhood, fight bac, fthebanks, occupy homes";"Test"
-"Campaigns";"#ows, Bank Of America, Corporate Personhood, fight bac, fthebanks, occupy homes";"Test"
-"Coordination";"CoC, Committee of Correspondence, Coordination, InterOcc, InterOccupation, Interoccupy, Movement Building";"Test"
-"Deescalation";"#Deescalation, Deescalation, Mediation, Nonviolent Communication, NVC, Security";"Test"
-"Documentation";"Documentation, How-To, Minutes, Note-taking, Notes, Reference Guide, Script, Technical Documentation, User Guide, Wiki";"Test"
-"Education";"Classes, Education, Learning, School, Skillshare, Teaching, University";"Test"
-"Events";"#event, event, Events";"Test"
-"Facilitation";"#Facilitation, assembly support, Facilitation, Moderation";"Test"
-"Faith";"Faith, Religion, Spirituality";"Test"
-"Farms";"#Farms, ag, Agriculture, Farm, farms, Permaculture";"Test"
-"Featured";"!featured";"Test"
-"Featured - NYCGA.net";"!NYCGA.net";"Test"
-"Food";"Agriculture, Farm, Food, Kitchen, Meals, Permaculture, Vegetables";"Test"
-"General Assembly";"#GA, Assemblies, Assembly, ga, General Assembly";"Test"
-"Health";"Care, Clinic, Comfort, Health, Medical, Medics, Nutrician";"Test"
-"Housing";"foreclosures, Homeless, Houseless, Housing, Shelter";"Test"
-"Info";"#Info, ComHub, Communication Hub, Info";"Test"
-"InterOccupation";"#InterOccupation, CoC, Committee of Correspondence, InterOcc, InterOccupation, Movement Building";"Test"
-"Interpersonal";"Communication, Community, Deescalation, Interpersonal, Mediation, Nonviolent Communication, NVC, Security";"Test"
-"Law";"Law, Lawyers, Legal, Police";"Test"
-"Legal";"#Legal, Law, Lawyers, Legal, Police";"Test"
-"Library";"Library";"Test"
-"Logistics";"Inventory, Logistics, Sanitation, Shipping, SIS, Storage, Warehouse, Waste";"Test"
-"Mainstream Media";"mainstream, occupy";"Test"
-"Media";"Commercial, Headline, Image, Media, News, Photo, Press, Production, Video";"Test"
-"Mediation";"Mediation, Nonviolent Communication, Security";"Test"
-"Medical";"Clinic, Health, Medic, Medical, Medicine";"Test"
-"New York";"New York";"Test"
-"New York City";"#NYC, New York City, nyc";"Test"
-"News";"Headline, Headlines, News";"Test"
-"Notes";"Minutes, Notes";"Test"
-"NYCGA.net";"NYCGA.net";"Test"
-"Occupy Wall Street";"#OccupyWallSt, #occupywallstreet, #ows";"Test"
-"Oregon";"Oregon";"Test"
-"Outreach";"outreach";"Test"
-"Proposals";"Future Proposals, Passed Proposals, Past Proposals, Proposals";"Test"
-"Requests";"donation, request, Requests, Solicitation";"Test"
-"Sanitation";"DPW, Sanitation, trash";"Test"
-"Space";"Cohousing, Coworking, Ecovillage, Intentional Community, Occupation, Office, Space";"Test"
-"Sustainability";"Environment, Environmental, Nature, No Nuclear, Permaculture, Public Transit, Public Transport, Public Transportation, Renewable Power, Sustainability";"Test"
-"Technology";"Hack, Hardware, Internet, Security, Software, Tech, Technology, TechOps, Web, Website";"Test"
-"Translation";"i18n, Languages, Multilingual, Translation";"Test"
+"Title";"Tag01";"Tag02";"Tag03";"Tag04";"Tag05";"Tag06";"Tag07";"Tag08";"Tag09";"Tag10";"Tag11";"Tag12";"Tag13";"Tag14";"Tag15";"Tag16";"Tag17";"Tag18";"Tag19";"Tag20"
+"Accounting ";"Accounting";" Budget";" Finance";" Treasury";;;;;;;;;;;;;;;;
+"Actions ";"Action";" Actions";" Civil Disobedience";" DA";" Direct Action";;;;;;;;;;;;;;;
+"Aid ";"Aid";" Library";" Mutual Aid";;;;;;;;;;;;;;;;;
+"Arts";"Art";" Arts";" Arts & Culture";" Culture";" Painting";" Sculpture";;;;;;;;;;;;;;
+"Assembly";"Assembly";" Facilitation";" Moderation";;;;;;;;;;;;;;;;;
+"California";"CALIFORNIA";;;;;;;;;;;;;;;;;;;
+"Campaigns";"#ows";" Bank Of America";" Corporate Personhood";" fight bac";" fthebanks";" occupy homes";;;;;;;;;;;;;;
+"Campaigns";"#ows";" Bank Of America";" Corporate Personhood";" fight bac";" fthebanks";" occupy homes";;;;;;;;;;;;;;
+"Coordination";"CoC";" Committee of Correspondence";" Coordination";" InterOcc";" InterOccupation";" Interoccupy";" Movement Building";;;;;;;;;;;;;
+"Deescalation";"#Deescalation";" Deescalation";" Mediation";" Nonviolent Communication";" NVC";" Security";;;;;;;;;;;;;;
+"Documentation";"Documentation";" How-To";" Minutes";" Note-taking";" Notes";" Reference Guide";" Script";" Technical Documentation";" User Guide";" Wiki";;;;;;;;;;
+"Education";"Classes";" Education";" Learning";" School";" Skillshare";" Teaching";" University";;;;;;;;;;;;;
+"Events";"#event";" event";" Events";;;;;;;;;;;;;;;;;
+"Facilitation";"#Facilitation";" assembly support";" Facilitation";" Moderation";;;;;;;;;;;;;;;;
+"Faith";"Faith";" Religion";" Spirituality";;;;;;;;;;;;;;;;;
+"Farms";"#Farms";" ag";" Agriculture";" Farm";" farms";" Permaculture";;;;;;;;;;;;;;
+"Featured";"!featured";;;;;;;;;;;;;;;;;;;
+"Featured - NYCGA.net";"!NYCGA.net";;;;;;;;;;;;;;;;;;;
+"Food";"Agriculture";" Farm";" Food";" Kitchen";" Meals";" Permaculture";" Vegetables";;;;;;;;;;;;;
+"General Assembly";"#GA";" Assemblies";" Assembly";" ga";" General Assembly";;;;;;;;;;;;;;;
+"Health";"Care";" Clinic";" Comfort";" Health";" Medical";" Medics";" Nutrician";;;;;;;;;;;;;
+"Housing";"foreclosures";" Homeless";" Houseless";" Housing";" Shelter";;;;;;;;;;;;;;;
+"Info";"#Info";" ComHub";" Communication Hub";" Info";;;;;;;;;;;;;;;;
+"InterOccupation";"#InterOccupation";" CoC";" Committee of Correspondence";" InterOcc";" InterOccupation";" Movement Building";;;;;;;;;;;;;;
+"Interpersonal";"Communication";" Community";" Deescalation";" Interpersonal";" Mediation";" Nonviolent Communication";" NVC";" Security";;;;;;;;;;;;
+"Law";"Law";" Lawyers";" Legal";" Police";;;;;;;;;;;;;;;;
+"Legal";"#Legal";" Law";" Lawyers";" Legal";" Police";;;;;;;;;;;;;;;
+"Library";"Library";;;;;;;;;;;;;;;;;;;
+"Logistics";"Inventory";" Logistics";" Sanitation";" Shipping";" SIS";" Storage";" Warehouse";" Waste";;;;;;;;;;;;
+"Mainstream Media";"mainstream";" occupy";;;;;;;;;;;;;;;;;;
+"Media";"Commercial";" Headline";" Image";" Media";" News";" Photo";" Press";" Production";" Video";;;;;;;;;;;
+"Mediation";"Mediation";" Nonviolent Communication";" Security";;;;;;;;;;;;;;;;;
+"Medical";"Clinic";" Health";" Medic";" Medical";" Medicine";;;;;;;;;;;;;;;
+"New York";"New York";;;;;;;;;;;;;;;;;;;
+"New York City";"#NYC";" New York City";" nyc";;;;;;;;;;;;;;;;;
+"News";"Headline";" Headlines";" News";;;;;;;;;;;;;;;;;
+"Notes";"Minutes";" Notes";;;;;;;;;;;;;;;;;;
+"NYCGA.net";"NYCGA.net";;;;;;;;;;;;;;;;;;;
+"Occupy Wall Street";"#OccupyWallSt";" #occupywallstreet";" #ows";;;;;;;;;;;;;;;;;
+"Oregon";"Oregon";;;;;;;;;;;;;;;;;;;
+"Outreach";"outreach";;;;;;;;;;;;;;;;;;;
+"Proposals";"Future Proposals";" Passed Proposals";" Past Proposals";" Proposals";;;;;;;;;;;;;;;;
+"Requests";"donation";" request";" Requests";" Solicitation";;;;;;;;;;;;;;;;
+"Sanitation";"DPW";" Sanitation";" trash";;;;;;;;;;;;;;;;;
+"Space";"Cohousing";" Coworking";" Ecovillage";" Intentional Community";" Occupation";" Office";" Space";;;;;;;;;;;;;
+"Sustainability";"Environment";" Environmental";" Nature";" No Nuclear";" Permaculture";" Public Transit";" Public Transport";" Public Transportation";" Renewable Power";" Sustainability";;;;;;;;;;
+"Technology";"Hack";" Hardware";" Internet";" Security";" Software";" Tech";" Technology";" TechOps";" Web";" Website";;;;;;;;;;
+"Translation";"i18n";" Languages";" Multilingual";" Translation";;;;;;;;;;;;;;;;
