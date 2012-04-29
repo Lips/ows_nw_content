@@ -6,3 +6,6 @@ _Store
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Lock files generated while editing in LibreOffice
+.~lock.ows_nw_channels_harmonized.csv#
