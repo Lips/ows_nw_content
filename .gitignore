@@ -9,3 +9,7 @@ _Store
 
 # Lock files generated while editing in LibreOffice
 .~lock.ows_nw_channels_harmonized.csv#
+.~lock.ows_nw_channels_push.csv#
+.~lock.ows_nw_feeds_ga.csv#
+.~lock.ows_nw_feeds_msm.csv#
+.~lock.ows_nw_feeds_affinity.csv#
